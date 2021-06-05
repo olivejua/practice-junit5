@@ -1,4 +1,4 @@
-package me.olivejua.inflearnthejavatest;
+package me.olivejua.practiceJunit;
 
 public class Study {
 

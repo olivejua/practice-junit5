@@ -1,12 +1,7 @@
-package me.olivejua.inflearnthejavatest;
+package me.olivejua.practiceJunit;
 
 import org.junit.jupiter.api.*;
-import org.junit.jupiter.api.condition.EnabledOnOs;
-import org.junit.jupiter.api.condition.OS;
 
-import java.time.Duration;
-
-import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assumptions.assumeTrue;
 
 @DisplayNameGeneration(DisplayNameGenerator.ReplaceUnderscores.class)
